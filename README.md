@@ -33,7 +33,7 @@ sudo pip3 install requirements.txt
 You can use the help command to get information about the tool.
 
 ```sh
-python3 p0znMITM.py --help 
+sudo python3 p0znMITM.py --help 
 #or use -h command.
 ```
 
