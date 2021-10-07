@@ -34,7 +34,7 @@ You can use the help command to get information about the tool.
 
 ```sh
 python3 p0znMITM.py --help 
-#or -h
+#or use -h command.
 ```
 
 To use the p0znMITM tool, review the command line below
