@@ -40,7 +40,7 @@ sudo python3 p0znMITM.py --help
 To use the p0znMITM tool, review the command line below
 
 ```sh
-python3 p0znMITM.py -t [target IP] -g [gateway IP] -i [network interface]
+sudo python3 p0znMITM.py -t [target IP] -g [gateway IP] -i [network interface]
 ```
 
 ## License
