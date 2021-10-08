@@ -13,9 +13,9 @@ ARP Poisoning is abuses weaknesses in the widely used Address Resolution Protoco
 
 - Automatic IP forwarding by operating system.
 - Scanning with different interfaces (eth0,wlan0).
-- Send and listen packets in one window.
-- Returning to instant default settings with the reset feature
-- Instant follow-up with quick response feature
+- Send and listen packets in one terminal.
+- Returning to instant default settings with the reset feature. 
+- Instant follow-up with quick response feature. 
 
 ## Requirement Installations
 
