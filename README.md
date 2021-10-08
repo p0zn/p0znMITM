@@ -10,7 +10,7 @@ Address Resolution Protocol (ARP) is a protocol or procedure that connects an ev
 ARP Poisoning is abuses weaknesses in the widely used Address Resolution Protocol (ARP) to disrupt, redirect, or spy on network traffic. 
 
 ## Features
-
+- Includes Network Scanner. You can easily access the IP and MAC addresses of users on your network.
 - Automatic IP forwarding by operating system.
 - Scanning with different interfaces (eth0,wlan0).
 - Send and listen packets in one terminal.
@@ -40,7 +40,7 @@ sudo python3 p0znMITM.py --help
 To use the p0znMITM tool, review the command line below
 
 ```sh
-sudo python3 p0znMITM.py -t [target IP] -g [gateway IP] -i [network interface]
+sudo python3 p0znMITM.py -t [target IP] -g [gateway IP] -i [network interface] -n [network IP]
 ```
 
 ## License
