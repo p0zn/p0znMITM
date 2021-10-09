@@ -26,7 +26,7 @@ ARP Poisoning is abuses weaknesses in the widely used Address Resolution Protoco
 Use the "requirements.txt" file to install the requirements
 
 ```sh
-sudo pip3 install requirements.txt
+sudo pip3 install -r requirements.txt
 ```
 
 ## Usage
