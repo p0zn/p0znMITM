@@ -1,1 +1,2 @@
 scapy_http
+readline
