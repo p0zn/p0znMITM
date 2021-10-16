@@ -34,14 +34,14 @@ sudo pip3 install -r requirements.txt
 You can use the help command to get information about the tool.
 
 ```sh
-sudo python3 p0znMITM.py --help 
+sudo python3 p0znMITM.pyc --help 
 #or use -h command.
 ```
 
 To use the p0znMITM tool, review the command line below
 
 ```sh
-sudo python3 p0znMITM.py -i [network interface] 
+sudo python3 p0znMITM.pyc -i [network interface] 
 ```
 
 ## License
