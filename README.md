@@ -26,6 +26,11 @@ Use the "requirements.txt" file to install the requirements
 ```sh
 sudo pip3 install -r requirements.txt
 ```
+You need to install the following version of readline for windows.
+
+```sh
+pip install pyreadline
+```
 
 ## Usage
 
