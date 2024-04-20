@@ -37,14 +37,14 @@ pip install pyreadline
 You can use the help command to get information about the tool.
 
 ```sh
-sudo python3 p0znMITM.pyc --help 
+sudo python p0znMITM.pyc --help 
 #or use -h command.
 ```
 
 To use the p0znMITM tool, review the command line below
 
 ```sh
-sudo python3 p0znMITM.pyc -i [network interface] 
+sudo python p0znMITM.pyc -i [network interface] 
 ```
 
 ## License
