@@ -31,6 +31,9 @@ You need to install the following version of readline for windows(windows versio
 ```sh
 pip install pyreadline
 ```
+```sh
+pip install scapy
+```
 
 ## Usage
 
