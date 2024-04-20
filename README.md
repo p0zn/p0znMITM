@@ -19,7 +19,7 @@ ARP Poisoning is abuses weaknesses in the widely used Address Resolution Protoco
 ## Requirement Installations
 
 -p0znMITM developed with python3 
--Used with python 3 version
+-Used with python 3.11.x version
 
 Use the "requirements.txt" file to install the requirements
 
