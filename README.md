@@ -1,4 +1,6 @@
 # p0znMITM
+⚠️ **UPDATE:** Compatibility patch has been applied for **Python 3.13.x** versions. (Update Date : 27.07.2025)
+
 ## ARP Poisoning Tool
 
 
